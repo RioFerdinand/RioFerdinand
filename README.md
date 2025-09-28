@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##### Github Stats :
-![RioFerdinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioFerdinand&show_icons=true&theme=tokyonight)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=RioFerdinand&theme=tokyonight&hide_border=false)<br>
+![RioFerdinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioFerdinand&show_icons=true&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=RioFerdinand&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RioFerdinand&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ##### Socials of Me :
