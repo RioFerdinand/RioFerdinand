@@ -1,4 +1,4 @@
-### Huallo! Im Rio Ferdinand a Front end Developer👍
+### Ohayo! Im Rio Ferdinand a Front end Developer👍
 
 ![LiShiya](img/github-background.jpeg)
 
